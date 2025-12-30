@@ -114,49 +114,8 @@
         "catchPhrase": "User-centric fault-tolerant solution",
         "bs": "revolutionize end-to-end systems"
       }
-    },
-    {
-      "id": "e277",
-      "username": "אאא",
-      "website": "אא",
-      "name": "אא",
-      "email": "אא",
-      "street": "אא",
-      "suite": "אא",
-      "city": "אא",
-      "zipcode": "אא",
-      "address": {
-        "street": "אא",
-        "suite": "אא",
-        "city": "אא",
-        "zipcode": "אא",
-        "geo": {
-          "lat": "",
-          "lng": ""
-        }
-      }
-    },
-    {
-      "id": "7764",
-      "username": "tt",
-      "website": "tt",
-      "name": "tt",
-      "email": "tt",
-      "street": "tt",
-      "suite": "tt",
-      "city": "tt",
-      "zipcode": "tt",
-      "address": {
-        "street": "tt",
-        "suite": "tt",
-        "city": "tt",
-        "zipcode": "tt",
-        "geo": {
-          "lat": "",
-          "lng": ""
-        }
-      }
     }
+    
   ],
   "todos": [
     {
